@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Avfy1yNUEjBu27aYNRqjdmR3z4GOSk4EPNqYZm/+s8ro+VemAUw7pzsCmdhkRbkn9ffNT40kx7UIXT/Y9u6UMQ==",
+  "dgSpecHash": "CD3np1TpQ9vS5pBONUbwK4Dn6WOi0MHCUnOyPVjUEv3GM9LQ6AYJVOgcb9uqBazAnYF2CuqAY8xVNMyUuKcOGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\MVVXamarin.iOS.csproj",
+  "projectFilePath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\MVVXamarin.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnarboleda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

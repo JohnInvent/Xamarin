@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\MVVXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\MVVXamarin.iOS.csproj",
       "projectName": "MVVXamarin.iOS",
-      "projectPath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\MVVXamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\MVVXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\johnarboleda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1027,8 +1027,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj": {
-              "projectPath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj"
+            "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj": {
+              "projectPath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj"
             }
           }
         }

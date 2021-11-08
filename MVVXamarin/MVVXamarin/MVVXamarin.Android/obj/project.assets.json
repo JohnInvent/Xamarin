@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.Android\\MVVXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.Android\\MVVXamarin.Android.csproj",
       "projectName": "MVVXamarin.Android",
-      "projectPath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.Android\\MVVXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.Android\\MVVXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\johnarboleda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2178,8 +2178,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj": {
-              "projectPath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj"
+            "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj": {
+              "projectPath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj"
             }
           }
         }

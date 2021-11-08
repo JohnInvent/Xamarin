@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KHq0D8pU4l89uSsDF/Glc/KZLGVlYOL03XAgaZeLy5tSqyWyEF0aTxONEYWcMhBnnpGZKmI7+mpysbXxYQMT1Q==",
+  "dgSpecHash": "IGON6uNobnSx5CHCs480E5jZp45ZmkYIoL0LPdEco9Oj0j/DYu46PckKS8zB5xs7R1qrwFqgH6KXEYNDI77JuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnarboleda\\source\\repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj",
+  "projectFilePath": "C:\\Users\\johnarboleda\\Source\\Repos\\JohnInvent\\Xamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin\\MVVXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnarboleda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\johnarboleda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
