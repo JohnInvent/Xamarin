@@ -1,0 +1,16 @@
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\bin\Debug\netstandard2.0\MVVXamarin.deps.json
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\bin\Debug\netstandard2.0\MVVXamarin.dll
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\bin\Debug\netstandard2.0\ref\MVVXamarin.dll
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\bin\Debug\netstandard2.0\MVVXamarin.pdb
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MVVXamarin.csproj.AssemblyReference.cache
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\View\PersonaPage.xaml.g.cs
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MVVXamarin.AssemblyInfoInputs.cache
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MVVXamarin.AssemblyInfo.cs
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MVVXamarin.csproj.CoreCompileInputs.cache
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MVVXamarin.dll
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\ref\MVVXamarin.dll
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\MVVXamarin.pdb
+C:\Users\johnarboleda\source\repos\MVVXamarin\MVVXamarin\MVVXamarin\obj\Debug\netstandard2.0\View\DetallePage.xaml.g.cs
